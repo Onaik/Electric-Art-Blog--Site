@@ -1,8 +1,8 @@
-# This is my semester blog
+# Electronic Art Spring 2023 Blog Site
 
-This is a list
 
-- this is first
-- this is second
+
+* [Week 2](week2_blogpost.html)
+
 
 * [Jan 11](11_classmeeting.html)
