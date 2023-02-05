@@ -6,7 +6,7 @@
 
 * [Week 3](week3_blogpost.html)
 
-* [Week 5](week4_blogpost.html)
+* [Week 4](week4_blogpost.html)
 
 
 * [Jan 11](11_classmeeting.html)
