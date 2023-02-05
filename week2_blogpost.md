@@ -8,6 +8,6 @@ Led Powered by BreadBoard
 
 Recieved Tech-Kits
 
-![Image 1 of notes](NotesImageOne.jpg)
+![Image 1 of notes](images\NotesImageOne.jpg)
 
-![Image 2 of notes](NotesImage2.jpg)
+![Image 2 of notes](images\NotesImage2.jpg)
