@@ -20,3 +20,7 @@ Dont melt solder with heat tip onto the target area. Heat up target area with ti
 
 ![Image 4 of week3notes](week3NotesImage4.jpg)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e757262be30ed5de53502ae9408aa30523b7292c
