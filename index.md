@@ -10,5 +10,7 @@
 
 * [Week 5](week5_blogpost.md)
 
+* [Week 6](week6_blogpost.md)
+
 
 * [Jan 11](11_classmeeting.html)
