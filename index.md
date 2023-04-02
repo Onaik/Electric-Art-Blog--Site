@@ -13,6 +13,8 @@
 * [Week 6](week6_blogpost.md)
 
 * [Week 11](week11_blogpost.md)
+ 
+* [Week 12] (week12_blogpost.md)
 
 
 * [Jan 11](11_classmeeting.html)
