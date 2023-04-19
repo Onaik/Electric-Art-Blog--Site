@@ -12,14 +12,11 @@ Soldering Tutorial
 
 Dont melt solder with heat tip onto the target area. Heat up target area with tip to the point where solder will melt directly to target area.
 
-![Image 1 of week3notes](week3NotesImageOne.jpg)
+solder will seep into the area rather than drop onto it if it is already heated
 
-![Image 2 of week3notes](week3NotesImage2.jpg)
+be careful not to heat it too much if it is circuitry
 
-![Image 3 of week3notes](week3NotesImage3.jpg)
-
-![Image 4 of week3notes](week3NotesImage4.jpg)
-
+!
 <<<<<<< HEAD
 =======
 

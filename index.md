@@ -12,6 +12,14 @@
 
 * [Week 6](week6_blogpost.md)
 
+* [Week 7](week7_blogpost.md)
+
+* [Week 8](week8_blogpost.md)
+
+* [Week 9](week9_blogpost.md)
+
+* [Week 10](week10_blogpost.md)
+
 * [Week 11](week11_blogpost.md)
  
 * [Week 12](week12_blogpost.md)
